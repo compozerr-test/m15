@@ -1,7 +1,9 @@
 {
     "type": "module",
     "name": "template",
-    "dependencies": { },
+    "dependencies": {
+        "compozerr-test/m14": ""
+     },
     "start": "echo 'Hi Mom!'",
     "startupTimeoutMs": 1000,
     "readyMessage": "Hi Mom",
